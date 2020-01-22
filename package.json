@@ -1,0 +1,20 @@
+{
+  "name": "shell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bash.js",
+  "scripts": {
+    "start": "nodemon bash.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayse-Erduran/node-shell.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ayse-Erduran/node-shell/issues"
+  },
+  "homepage": "https://github.com/Ayse-Erduran/node-shell#readme"
+}
